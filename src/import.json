@@ -1,0 +1,24 @@
+[
+  {
+    "customer_id": 3577494,
+    "payment_method_code": "bank_slip_1",
+    "due_at": "2021-12-15",
+    "bill_items": [
+      {
+        "product_id": 103205,
+        "amount": 95
+      }
+    ]
+  },
+  {
+    "customer_id": 5272400,
+    "payment_method_code": "bank_slip_1",
+    "due_at": "2021-12-15",
+    "bill_items": [
+      {
+        "product_id": 103205,
+        "amount": 95
+      }
+    ]
+  }
+]
